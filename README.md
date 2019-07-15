@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+15th July 2019.
 
 ### Project Title
-Replace the Project Title
+Post your work on github
 
 ### Description
-Describe what your project is about and what it does
+This project is aimed at establishing that you understand how to work with version control using github to work with remote repositories from your local repository
 
 ### Files used
-Include the files used
+bikeshare.py
+chicago.csv
+washington.csv
+new_york_city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/udacity/pdsnd_github
