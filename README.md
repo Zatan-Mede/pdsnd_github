@@ -15,3 +15,4 @@ new_york_city.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
