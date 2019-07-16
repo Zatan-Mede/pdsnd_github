@@ -177,7 +177,7 @@ def raw_data(df):
 
 
 def sorting(df):
-    """Displays data on the lowest value of a selected column."""
+    """Displays a single row of data of the lowest value of a selected column."""
     sorting = input('Do you want to view data sorted by the lowest value of a column (yes/no): ').lower()
     if sorting != 'no':
         columns = ('Month', 'Birth Year', 'Trip Duration', 'End Time', 'Start Time')
