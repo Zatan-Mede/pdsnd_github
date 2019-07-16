@@ -160,7 +160,7 @@ def user_stats(df):
 
 
 def raw_data(df):
-    """Displays data of the first five lines of the filtered DafaFrame."""
+    """Displays data of the first five row of the filtered DafaFrame."""
     view_head = input('Do you want to see the first 5 lines of your filtered search (yes/no)? ').lower()
     if view_head != 'no':
             print(df.head())
